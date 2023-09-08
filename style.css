@@ -25,3 +25,11 @@ a:active {
   background: #dddddd;
   cursor: pointer;
 }
+.pull:hover {
+ background: #cccccc;
+
+}
+.pull--selected{
+ background: #009578;
+ color: #ffffff;
+}
