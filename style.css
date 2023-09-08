@@ -13,3 +13,9 @@ a:hover {
 a:active {
   color: blue;
 }
+
+.pull{
+    font-size: 12px;
+    font-family: 'Raedex Pro',      sans-serif;
+  padding: 0.5em 1em;
+}
