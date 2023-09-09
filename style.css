@@ -15,10 +15,10 @@ a:active {
 }
 
 .pull{
-    font-size: 12px;
+    font-size: 20px;
     font-family: 'Readex Pro',      sans-serif;
-  padding: 0.5em 1em;
-  margin: 0.25em;
+  padding: 1em 2em;
+  margin: 0.5em;
   border-radius: 1em;
   border: none;
   outline: none;
